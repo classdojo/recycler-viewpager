@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/Users/mikechang/dev/recycler-viewpager/viewpager/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/mikechang/dev/recycler-viewpager/viewpager/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/mikechang/dev/recycler-viewpager/viewpager/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/mikechang/dev/recycler-viewpager/viewpager/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "/Users/mikechang/dev/dojo-android/recyclerviewpager/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
         "source": "/Users/mikechang/dev/dojo-android/recyclerviewpager/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
